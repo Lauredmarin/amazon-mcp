@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 
 
 # Create FastMCP instance
-mcp = FastMCP("Amazon MCP Server by Fewsats", port=9001)
+mcp = FastMCP("Amazon MCP Server by Fewsats", port=9002)
 
 
 def get_amazon():
