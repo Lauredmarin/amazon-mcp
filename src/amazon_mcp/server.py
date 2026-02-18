@@ -191,4 +191,4 @@ async def get_user_orders():
 
 
 def main():
-    mcp.run(transport="streamable-http")
+    mcp.run(transport="stdio")
